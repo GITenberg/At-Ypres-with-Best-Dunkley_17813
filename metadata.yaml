@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7614'
     url: http://www.gutenberg.org/2009/agents/7614
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17813#At-Ypres-with-Best-Dunkley
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-02-21'
 gutenberg_type: Text
